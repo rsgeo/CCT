@@ -10,7 +10,7 @@ root.attributes("-alpha", 0.95)
 root.config(bg = "#F5F5F5")
 
 # Set titlebar image.
-photo = PhotoImage(file='C:/Users/ryan/Desktop/stuff/Scripts/CCT/v1.0/CCT_icon.png')
+photo = PhotoImage(file='D:\Documents\GitHub\CCT\CCT_icon.png')
 root.iconphoto(False, photo)
 
 # Label for top of window.
