@@ -1,2 +1,2 @@
-# Coordinate-Conversion-Tool
-Simple tool for quick conversion of coordinates from Degree Minute Second into Decimal Degree.
+# [CCT] Coordinate Conversion Tool
+Tool for rapid conversion of coordinates from Degree-Minute-Second into Decimal-Degree.
